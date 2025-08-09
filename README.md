@@ -1,6 +1,6 @@
 ## Hi there!
 
-I'm a frontend-leaning full stack developer.  
+I'm a full stack software engineer.  
 React, TypeScript, GraphQL, Node.js, Python
 
 [See my resume here](https://nathanchica.github.io/nathanchica/2025_08_resume.pdf) (last updated August 2025)
