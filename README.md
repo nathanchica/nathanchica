@@ -11,5 +11,6 @@ Current side-projects:
   - [https://nchica-event-logger.vercel.app](https://nchica-event-logger.vercel.app/)
   - learning to use Apollo Cache as data store and implement optimistic UI
   - learning Vite and Vitest (Migrated from CRA and Jest)
+  - learning Vercel Cron Jobs and Discord webhooks for notifications
 
 Interests: photography, travel, cats, gaming, calligraphy
