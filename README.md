@@ -13,5 +13,6 @@ Current side-projects:
   - learning Vite and Vitest (Migrated from CRA and Jest)
   - learning Vercel for deployments and Github Actions for CI/CD
   - learning Vercel Cron Jobs and Discord webhooks for notifications
+  - I use this app to keep track of my cat chores
 
 Interests: photography, travel, cats, gaming, calligraphy
