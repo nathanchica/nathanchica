@@ -4,8 +4,13 @@ I'm a full stack web developer.
 React, TypeScript, GraphQL, Node.js, Python
 
 Current side-projects:
+- [a basic websocket chat application](https://github.com/nathanchica/chicachica)
+  - [https://chicachica.vercel.app/](https://chicachica.vercel.app/)
+  - learning websockets (socketio) and building a basic chat application
+  - didn't implement proper user account management and authentication so you can just log in as any user. the project was just for fun and focused on learning websockets
+  - vite react + express + socketio + neon serverless postgresDB
 - [a website for my cats](https://github.com/nathanchica/grouchi)
-  - [grouchi.vercel.app](https://grouchi.vercel.app)
+  - [https://grouchi.vercel.app](https://grouchi.vercel.app)
   - learning HTMX and TailwindCSS
 - [life event logger](https://github.com/nathanchica/life_event_logger_monorepo)
   - [https://nchica-event-logger.vercel.app](https://nchica-event-logger.vercel.app/)
