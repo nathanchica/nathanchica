@@ -9,6 +9,7 @@ Current side-projects:
   - learning websockets (socketio) and building a basic chat application
   - didn't implement proper user account management and authentication so you can just log in as any user. the project was just for fun and focused on learning websockets
   - vite react + express + socketio + neon serverless postgresDB
+  - also learning Render for deploying the backend service instead of Vercel
 - [a website for my cats](https://github.com/nathanchica/grouchi)
   - [https://grouchi.vercel.app](https://grouchi.vercel.app)
   - learning HTMX and TailwindCSS
