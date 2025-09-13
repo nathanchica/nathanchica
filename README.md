@@ -12,6 +12,7 @@ Current side-projects:
 - [a website for my cats](https://github.com/nathanchica/grouchi)
   - [https://grouchi.vercel.app](https://grouchi.vercel.app)
   - learning HTMX and TailwindCSS
+  - learning OpenAI integration
 - [life event logger](https://github.com/nathanchica/life_event_logger_monorepo)
   - [https://nchica-event-logger.vercel.app](https://nchica-event-logger.vercel.app/)
   - learning to use Apollo Cache as data store and implement optimistic UI
