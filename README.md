@@ -10,7 +10,7 @@ Current side-projects:
   - didn't implement proper user account management and authentication so you can just log in as any user. the project was just for fun and focused on learning websockets
   - vite react + express + socketio + neon serverless postgresDB
   - learning Render for deploying the backend websocket service
-  - learning Ink (building a separate terminal client for this chat app using React!) and hosting the terminal app on a web page using xterm.js (hosted [here](https://chicachica.onrender.com/terminal))
+  - learning [Ink](https://github.com/vadimdemedes/ink) (building a separate terminal client for this chat app using React!) and hosting the terminal app on a web page using xterm.js (hosted [here](https://chicachica.onrender.com/terminal))
 - [a website for my cats](https://github.com/nathanchica/grouchi)
   - [https://grouchi.vercel.app](https://grouchi.vercel.app)
   - learning HTMX and TailwindCSS
