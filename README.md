@@ -4,6 +4,9 @@ I'm a full stack web developer.
 React, TypeScript, GraphQL, Node.js, Python
 
 Current side-projects:
+- [live dashboard of berkeley bus 51b](https://github.com/nathanchica/where-is-51b)
+  - learning GraphQL subscriptions, GTFS, and React Leaflet (map visualization)
+  - vite react + graphql yoga + typescript + tailwindcss + react leaflet
 - [a basic websocket chat application](https://github.com/nathanchica/chicachica)
   - [https://chicachica.vercel.app/](https://chicachica.vercel.app/)
   - learning websockets (socketio) and building a basic chat application
