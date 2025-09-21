@@ -9,6 +9,7 @@ Current side-projects:
   - learning GraphQL subscriptions, GTFS, Redis, urql, and React Leaflet (map visualization)
   - vite react + graphql yoga + typescript + tailwindcss + urql + react leaflet
   - frontend deployed to Vercel, backend deployed to Render (the first request may fail for a minute due to server spinning up since i'm using free tier)
+  - currently only serves my needs (specific route and bus stops) but easily extendable to serve other routes or bus stops if needed
 - [a basic websocket chat application](https://github.com/nathanchica/chicachica)
   - [https://chicachica.vercel.app/](https://chicachica.vercel.app/)
   - learning websockets (socketio) and building a basic chat application
