@@ -8,6 +8,7 @@ Current side-projects:
   - [https://where-is-51b.vercel.app](https://where-is-51b.vercel.app)
   - learning GraphQL subscriptions, GTFS, Redis, urql, and React Leaflet (map visualization)
   - vite react + graphql yoga + typescript + tailwindcss + urql + react leaflet
+  - frontend deployed to Vercel, backend deployed to Render (the first request may fail for a minute due to server spinning up since i'm using free tier)
 - [a basic websocket chat application](https://github.com/nathanchica/chicachica)
   - [https://chicachica.vercel.app/](https://chicachica.vercel.app/)
   - learning websockets (socketio) and building a basic chat application
