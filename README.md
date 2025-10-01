@@ -5,13 +5,13 @@ React, TypeScript, GraphQL, Node.js, Python
 
 Current side-projects:
 - [live dashboard of berkeley bus 51b](https://github.com/nathanchica/where-is-51b)
-  - [https://where-is-51b.vercel.app](https://where-is-51b.vercel.app)
+  - [https://where-is-51b.vercel.app](https://where-is-51b.vercel.app) (Note: the backend service takes a minute to wake back up)
   - learning GraphQL subscriptions, GTFS, Redis, urql, and React Leaflet (map visualization)
   - vite react + graphql yoga + typescript + tailwindcss + urql + react leaflet
-  - frontend deployed to Vercel, backend deployed to Render (the first request may fail for a minute due to server spinning up since i'm using free tier)
+  - frontend deployed to Vercel, backend deployed to Render
   - currently only serves my needs (specific route and bus stops) but easily extendable to serve other routes or bus stops if needed
 - [a basic websocket chat application](https://github.com/nathanchica/chicachica)
-  - [https://chicachica.vercel.app/](https://chicachica.vercel.app/)
+  - [https://chicachica.vercel.app/](https://chicachica.vercel.app/) (Note: the backend service takes a minute to wake back up)
   - learning websockets (socketio) and building a basic chat application
   - didn't implement proper user account management and authentication so you can just log in as any user. the project was just for fun and focused on learning websockets
   - vite react + express + socketio + neon serverless postgresDB
