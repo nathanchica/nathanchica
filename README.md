@@ -5,7 +5,7 @@ React, TypeScript, GraphQL, Node.js, Python
 
 Current side-projects:
 - [live dashboard of berkeley bus 51b](https://github.com/nathanchica/where-is-51b)
-  - [https://where-is-51b.vercel.app](https://where-is-51b.vercel.app) (Note: the backend service takes a minute to wake back up)
+  - [https://where-is-51b.vercel.app](https://where-is-51b.vercel.app)
   - learning GraphQL subscriptions, GTFS, Redis, urql, and React Leaflet (map visualization)
   - vite react + graphql yoga + typescript + tailwindcss + urql + react leaflet
   - frontend deployed to Vercel, backend deployed to Render
