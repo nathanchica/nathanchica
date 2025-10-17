@@ -4,6 +4,9 @@ I'm a full stack web developer.
 React, TypeScript, GraphQL, Node.js, Python
 
 Current side-projects:
+- [grouchess - a lichess clone](https://github.com/nathanchica/grouchess)
+  - just for fun and learning purposes
+  - a chess game in vite react + tailwindcss + typescript + express + socketio
 - [live dashboard of berkeley bus 51b](https://github.com/nathanchica/where-is-51b)
   - [https://where-is-51b.vercel.app](https://where-is-51b.vercel.app)
   - learning GraphQL subscriptions, GTFS, Redis, urql, and React Leaflet (map visualization)
