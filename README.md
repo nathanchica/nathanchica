@@ -6,8 +6,10 @@ React, TypeScript, GraphQL, Node.js, Python
 Current side-projects:
 - [grouchess - a lichess clone](https://github.com/nathanchica/grouchess)
   - [https://grouchess.vercel.app/](https://grouchess.vercel.app/) (Note: the backend service takes a full minute to wake back up)
-  - just for fun and learning purposes (drag-and-drop, complex state management, websockets, monotonic clocks, etc.)
   - a chess game in vite react + tailwindcss + typescript + express + socketio
+  - just for fun and learning purposes
+    - drag-and-drop, complex state management, websockets, monotonic clocks, [vitest browser mode](https://vitest.dev/guide/browser/why.html), etc.
+    - minimal dependencies
 - [live dashboard of berkeley bus 51b](https://github.com/nathanchica/where-is-51b)
   - [https://where-is-51b.vercel.app](https://where-is-51b.vercel.app)
   - learning GraphQL subscriptions, GTFS, Redis, urql, and React Leaflet (map visualization)
